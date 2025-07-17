@@ -1,0 +1,11 @@
+# Python requirements
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+matplotlib
+seaborn
+streamlit
+joblib
