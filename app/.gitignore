@@ -1,0 +1,13 @@
+# Ignore large CSV files
+data/predictions.csv
+data/creditcard.csv
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+cvenv/
+*.sqlite3
+.DS_Store
