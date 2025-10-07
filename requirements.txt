@@ -1,13 +1,6 @@
-# Python requirements
-pandas
-numpy
-scikit-learn
-xgboost
-lightgbm
-imbalanced-learn
-matplotlib
-seaborn
-streamlit
-joblib
-
-plotly
+streamlit==1.33.0
+pandas==2.0.3
+plotly==5.15.0
+joblib==1.3.2
+scikit-learn==1.3.2
+numpy==1.26.4
